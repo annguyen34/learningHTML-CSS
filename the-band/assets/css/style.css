@@ -304,3 +304,7 @@
   padding: 16px;
   text-align: right;
 }
+
+.hidden {
+  display: none;
+}
